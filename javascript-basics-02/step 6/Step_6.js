@@ -1,4 +1,5 @@
-var img1= document.querySelector("#image1");
+  
+    var img1= document.querySelector("#image1");
     var img2= document.querySelector("#image2");
     var img3= document.querySelector("#image3");
     var img4= document.querySelector("#image4");
